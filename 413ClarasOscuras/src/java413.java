@@ -15,10 +15,10 @@ public class java413 {
 
     private static void casoDePrueba()
     {
-	int ancho = entrada.nextInt();
-	int alto = entrada.nextInt();
+	int width = entrada.nextInt();
+	int	high = entrada.nextInt();
 	
-	int losetasTotales = ancho * alto;
+	int losetasTotales = width * high;
 	
 	int claras = 0;
 	int oscuras = 0;
